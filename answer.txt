@@ -1,0 +1,11 @@
+Difference between flex row and column;
+Ans:flex row in the inline direction and column is block direction
+Inline:-Inline CSS is defined as opening tag of an html
+internal: internal CSS is defined as head section of an html document
+external: external CSS is defined as separate css file and multi web pages.
+justify content: justify content allow to space around and space between , flex end and flex stant and left right content
+absolute position:The top, right, bottom, and left properties determine the final location of positioned elements.
+relative position:The top, right, bottom, and left properties determine the final location of positioned elements.
+z index: 'z-index' property specifies the stack level of the box in the current stacking context and whether the box establishes a local stacking context.
+padding: padding is define as size of pixel and percentage.and negative values are not allow.
+margin: margin is defined as left ,right, bottom ,top, negative are allow the content.

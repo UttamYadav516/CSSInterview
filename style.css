@@ -1,0 +1,32 @@
+.main{
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-direction: row; */
+    height: 80px;
+    width: 200px;
+    background-color: red;
+    justify-content: center;
+}
+.table1{
+    /* display: inline; */
+    height: 100px;
+    width: 100px;
+    /* position: relative; */
+    /* position: absolute; */
+    background-color: blue;
+}
+.table2{
+    /* display: inline; */
+    height: 100px;
+    width: 100px;
+    /* z-index: 500px; */
+    background-color: palevioletred;
+}
+.table3{
+    /* display: inline; */
+    height: 100px;
+    width: 100px;
+    /* padding: 20%; */
+    margin: 10%;
+    background-color: yellow;
+}
